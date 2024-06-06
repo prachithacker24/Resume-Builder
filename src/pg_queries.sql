@@ -1,0 +1,18 @@
+-- Query for Candidate table
+-- CREATE TABLE candidates (
+--     candidateid SERIAL NOT NULL,
+--     firstname TEXT NOT NULL,
+--     middlename TEXT NOT NULL,
+--     lastName TEXT NOT NULL,
+--     DOB TEXT NOT NULL,
+--     Phone BIGINT NOT NULL,
+--     email VARCHAR(70) NOT NULL,
+--     address TEXT NOT NULL,
+--     skill_1 VARCHAR(20) NOT NULL,
+--     skill_2 VARCHAR(20) NOT NULL,
+--     skill_3 VARCHAR(20) NOT NULL,
+--     skill_4 VARCHAR(20) NOT NULL,
+--     qualification_status VARCHAR(20) NOT NULL,
+--     experience VARCHAR(20) NOT NULL,
+--     PRIMARY KEY (candidateid)
+-- );
